@@ -6,6 +6,8 @@ namespace Vjezba1
 {
     class Class1
     {
-        int haha;
+        int naziv() {
+            return 2;
+        }
     }
 }
