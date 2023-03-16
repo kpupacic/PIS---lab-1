@@ -10,6 +10,7 @@ namespace Vjezba1
             Console.WriteLine("New1");
             // Added new Console log
             Console.WriteLine("New One");
+            Console.WriteLine("New One");
         }
     }
 }
